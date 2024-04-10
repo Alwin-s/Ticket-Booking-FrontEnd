@@ -1,0 +1,613 @@
+{
+    "movies":[
+        {
+            "id":1,
+            "name":"Manjummal Boys",
+            "image":"https://bahrain.cineco.net/wp-content/uploads/2024/02/Manjummel-.jpg",
+            "genre":"Adventure / Drama / Thriller",
+            "language":"Malayalam",
+            "rating":9.3,
+            "bgimg":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/manjummel-boys-et00386670-1707452965.jpg",
+            "selectedOptions": ["Kochi", "Palakkad"],
+            "detailView":{
+                "about":"A group of friends get into a daring rescue mission to save their friend from Guna Caves, a perilously deep pit from where nobody has ever been brought back.",
+                "cast":[
+                    {
+                        "id":1,
+                        "name":"Soubin Shahir",
+                        "role":"as Siju David (Kuttan)",
+                        "url":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/soubin-shahir-1065318-1683013079.jpg"
+                    },
+                    {
+                        "id":2,
+                        "name":"Sreenath Bhasi",
+                        "role":"as Subash",
+                        "url":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/sreenath-bhasi-33734-1677574018.jpg"
+                    },
+                    {
+                        "id":3,
+                        "name":"Balu Varghese",
+                        "role":"as Sixen John",
+                        "url":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/balu-varghese-1048888-25-04-2018-01-51-22.jpg"
+                    },
+                    {
+                        "id":4,
+                        "name":"Ganapathy",
+                        "role":"as Krishnakumar",
+                        "url":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/ganapathy-704-13-11-2018-12-58-52.jpg"
+                    },
+                    {
+                        "id":5,
+                        "name":"Deepak Parambol",
+                        "role":"as Sudheesh",
+                        "url":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/deepak-parambol-1047664-09-11-2016-06-12-40.jpg"
+                    }
+                    
+                    
+                ],
+                "theaters":[
+                    {
+                        "id": 1,
+                        "name": "Oscar Cinemas 2k A/C",
+                        "seatNo":95,
+                        "shows": [
+                            { "time": "11:30 AM", "projection": "2K Dolby 7.1" },
+                            { "time": "01:45 PM", "projection": "2k Dolby" },
+                            { "time": "04:00 PM", "projection": "Dolby 7.1" },
+                            { "time": "09:30 PM", "projection": "Dolby 7.1" }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "name": "Jayabarath movies 2k",
+                        "seatNo":78,
+                        "shows": [
+                            { "time": "10:15 AM", "projection": "2K Dolby 7.1" },
+                            { "time": "04:15 PM", "projection": "2k Dolby" },
+                            { "time": "10:15 PM", "projection": "Dolby 7.1" }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "name": "EVM Cinema A/C RGB LASER 3D",
+                        "seatNo":65,
+                        "shows": [
+                            { "time": "09:10 AM", "projection": "2K Dolby 7.1" },
+                            { "time": "12:05 PM", "projection": "2k Dolby" },
+                            { "time": "03:00 PM", "projection": "Dolby 7.1" },
+                            { "time": "09:20 PM", "projection": "Dolby 7.1" }
+                        ]
+                    },
+                    {
+                        "id":4,
+                        "name":"Casino Talkies A/C 2K 3D Dolby Surround",
+                        "seatNo":96,
+                        "shows": [
+                            { "time": "11:00 AM", "projection": "2K Dolby 7.1" },
+                            { "time": "03:00 PM", "projection": "2k Dolby" },
+                            { "time": "09:45 PM", "projection": "Dolby 7.1" },
+                            { "time": "11:30 PM", "projection": "Dolby 7.1" }
+                        ]
+                    },
+                    {
+                        "id":5,
+                        "name":" K Cinemas 4K Dolby 7.1",
+                        "seatNo":77,
+                        "shows": [
+                            { "time": "11:15 AM", "projection": "2K Dolby 7.1" },
+                            { "time": "06:30 PM", "projection": "2k Dolby" },
+                            { "time": "09:45 PM", "projection": "Dolby 7.1" },
+                            { "time": "11:45 PM", "projection": "Dolby 7.1" }
+                        ]
+                    }
+                ]
+                
+
+            }
+        },
+
+
+        {
+            "id":2,
+            "name":"Bramayugam",
+            "image":"https://media.assettype.com/TNIE%2Fimport%2Fuploads%2Fuser%2Fckeditor_images%2Farticle%2F2023%2F9%2F8%2FBramayugam.jpg?w=640&auto=format%2Ccompress",
+            "genre":"Horror / Thriller",
+            "language":"Malayalam",
+            "rating":9,
+            "bgimg":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/bramayugam-et00367666-1694499915.jpg",
+            "selectedOptions": ["Kochi", "Palakkad","Calicut","Kannur"],
+            "detailView":{
+                "about":"Bramayugam is a rooted story set in the dark ages of Kerala starring Mammootty in the lead.",
+                "cast":[
+                    {
+                        "id":1,
+                        "name":"Mammootty",
+                        "role":"Actor",
+                        "url":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/mammootty_1340_29-07-2016_11-43-24.jpg"
+                    },
+                    {
+                        "id":2,
+                        "name":"Arjun Ashokan",
+                        "role":"Actor",
+                        "url":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/arjun-ashokan-2015240-1684481025.jpg"
+                    },
+                    {
+                        "id":3,
+                        "name":"Sidharth Bharathan",
+                        "role":"Actor",
+                        "url":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/sidharth-bharathan-2023280-1667383638.jpg"
+                    },
+                    {
+                        "id":4,
+                        "name":"Amalda Liz",
+                        "role":"Actor",
+                        "url":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/amalda-liz-2027310-1681708341.jpg"
+                    }
+                ],
+                "theaters":[
+                    {
+                        "id": 1,
+                        "name": "Oscar Cinemas 2k A/C",
+                        "seatNo":95,
+                        "shows": [
+                            { "time": "11:30 AM", "projection": "2K Dolby 7.1" },
+                            { "time": "01:45 PM", "projection": "2k Dolby" },
+                            { "time": "04:00 PM", "projection": "Dolby 7.1" },
+                            { "time": "09:30 PM", "projection": "Dolby 7.1" }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "name": "Jayabarath movies 2k",
+                        "seatNo":82,
+                        "shows": [
+                            { "time": "10:15 AM", "projection": "2K Dolby 7.1" },
+                            { "time": "04:15 PM", "projection": "2k Dolby" },
+                            { "time": "10:15 PM", "projection": "Dolby 7.1" }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "name": "EVM Cinema A/C RGB LASER 3D",
+                        "seatNo":55,
+                        "shows": [
+                            { "time": "09:10 AM", "projection": "2K Dolby 7.1" },
+                            { "time": "12:05 PM", "projection": "2k Dolby" },
+                            { "time": "03:00 PM", "projection": "Dolby 7.1" },
+                            { "time": "09:20 PM", "projection": "Dolby 7.1" }
+                        ]
+                    },
+                    {
+                        "id":4,
+                        "name":"Casino Talkies A/C 2K 3D Dolby Surround",
+                        "seatNo":69,
+                        "shows": [
+                            { "time": "11:00 AM", "projection": "2K Dolby 7.1" },
+                            { "time": "03:00 PM", "projection": "2k Dolby" },
+                            { "time": "09:45 PM", "projection": "Dolby 7.1" },
+                            { "time": "11:30 PM", "projection": "Dolby 7.1" }
+                        ]
+                    },
+                    {
+                        "id":5,
+                        "name":" K Cinemas 4K Dolby 7.1",
+                        "seatNo":84,
+                        "shows": [
+                            { "time": "11:15 AM", "projection": "2K Dolby 7.1" },
+                            { "time": "06:30 PM", "projection": "2k Dolby" },
+                            { "time": "09:45 PM", "projection": "Dolby 7.1" },
+                            { "time": "11:45 PM", "projection": "Dolby 7.1" }
+                        ]
+                    }
+                ]
+                
+            }
+        },
+        {
+            "id":3,
+            "name":"Dune: Part Two ",
+            "image":"https://images.squarespace-cdn.com/content/v1/552672afe4b0c26feae01486/1637782853123-J37VI8VX2QL82KJP5U5W/DUNE_Indy_Movie_Poster_1.jpeg?format=500w",
+            "genre":" Adventure / Drama / Sci-Fi",
+            "language":"English",
+            "rating":8.8,
+            "bgimg":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/dune-part-two-et00331567-1706167890.jpg",
+            "selectedOptions": ["Kochi", "Calicut","Thrissur"],
+            "detailView":{
+                "about":"Dune: Part Two will explore the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a warpath of revenge against the conspirators who destroyed his family. Facing a choice between the love and the fate of the known universe, he endeavors to prevent a terrible future only he can foresee.",
+                "cast":[
+                    {
+                        "id":1,
+                        "name":"Timothée Chalamet",
+                        "role":"as Paul Atreides",
+                        "url":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/timoth_e-chalamet-1090896-19-02-2019-12-36-29.jpg"
+                    },
+                    {
+                        "id":2,
+                        "name":"Zendaya",
+                        "role":"as Chani",
+                        "url":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/zendaya-2016258-1684991803.jpg"
+                    },
+                    {
+                        "id":3,
+                        "name":"Rebecca Ferguson",
+                        "role":"as Lady Jessica Atreides",
+                        "url":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/rebecca-ferguson-1048045-24-03-2017-16-12-13.jpg"
+                    },
+                    {
+                        "id":4,
+                        "name":"Josh Brolin",
+                        "role":"as Gurney Halleck",
+                        "url":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/josh-brolin-4438-24-03-2017-12-35-45.jpg"
+                    },
+                    {
+                        "id":5,
+                        "name":"Austin Butler",
+                        "role":"as Feyd-Rautha Harkonnen",
+                        "url":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/austin-butler-2034307-1707737325.jpg"
+                    }
+                ],
+                "theaters":[
+                    {
+                        "id": 1,
+                        "name": "Oscar Cinemas 2k A/C",
+                        "seatNo":95,
+                        "shows": [
+                            { "time": "11:30 AM", "projection": "2K Dolby 7.1" },
+                            { "time": "01:45 PM", "projection": "2k Dolby" },
+                            { "time": "04:00 PM", "projection": "Dolby 7.1" },
+                            { "time": "09:30 PM", "projection": "Dolby 7.1" }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "name": "Jayabarath movies 2k",
+                        "seatNo":82,
+                        "shows": [
+                            { "time": "10:15 AM", "projection": "2K Dolby 7.1" },
+                            { "time": "04:15 PM", "projection": "2k Dolby" },
+                            { "time": "10:15 PM", "projection": "Dolby 7.1" }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "name": "EVM Cinema A/C RGB LASER 3D",
+                        "seatNo":55,
+                        "shows": [
+                            { "time": "09:10 AM", "projection": "2K Dolby 7.1" },
+                            { "time": "12:05 PM", "projection": "2k Dolby" },
+                            { "time": "03:00 PM", "projection": "Dolby 7.1" },
+                            { "time": "09:20 PM", "projection": "Dolby 7.1" }
+                        ]
+                    },
+                    {
+                        "id":4,
+                        "name":"Casino Talkies A/C 2K 3D Dolby Surround",
+                        "seatNo":69,
+                        "shows": [
+                            { "time": "11:00 AM", "projection": "2K Dolby 7.1" },
+                            { "time": "03:00 PM", "projection": "2k Dolby" },
+                            { "time": "09:45 PM", "projection": "Dolby 7.1" },
+                            { "time": "11:30 PM", "projection": "Dolby 7.1" }
+                        ]
+                    },
+                    {
+                        "id":5,
+                        "name":" K Cinemas 4K Dolby 7.1",
+                        "seatNo":84,
+                        "shows": [
+                            { "time": "11:15 AM", "projection": "2K Dolby 7.1" },
+                            { "time": "06:30 PM", "projection": "2k Dolby" },
+                            { "time": "09:45 PM", "projection": "Dolby 7.1" },
+                            { "time": "11:45 PM", "projection": "Dolby 7.1" }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "id":4,
+            "name":"Article 370",
+            "image":"https://m.media-amazon.com/images/M/MV5BMGYzM2QxNWEtY2EwZC00OTE2LWExZDEtNjQ0NDAyMjYzNGJlXkEyXkFqcGdeQXVyMTY1MjAwNDU0._V1_.jpg",
+            "genre":" Drama / Political",
+            "language":"Hindi",
+            "rating":9.1,
+            "bgimg":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/article-370-et00384444-1708669471.jpg",
+            "selectedOptions": ["Kochi", "Palakkad","Calicut"],
+            "detailView":{
+                "about":"In the aftermath of the 2016 Kashmir unrest, a young local field agent, Zooni Haksar, is picked out by Rajeshwari Swaminathan from the Prime Minister`s Office for a top secret mission. Their aim? Cracking down on terrorism and putting an end to the billion dollar conflict economy in the valley, by doing the absolute impossible - Abrogating the notorious Article 370. That too, without spilling a single drop of innocent blood.",
+                "cast":[
+                    {
+                        "id":1,
+                        "name":"Yami Gautam",
+                        "role":"as Zooni Haksar",
+                        "url":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/yami-gautam-17250-1707380146.jpg"
+                    },
+                    {
+                        "id":2,
+                        "name":"Priyamani",
+                        "role":"as Rajeshwari Swaminathan",
+                        "url":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/priyamani-1738-1654347025.jpg"
+                    },
+                    {
+                        "id":3,
+                        "name":"Arun Govil",
+                        "role":"as Prime Minister",
+                        "url":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/arun-govil-2993-18-09-2020-04-31-55.jpg"
+                    },
+                    {
+                        "id":4,
+                        "name":"Ajay Devg",
+                        "role":"Actor",
+                        "url":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/ajay-devgn-24051-12-09-2017-04-41-13.jpg"
+                    },
+                    {
+                        "id":5,
+                        "name":"Vaibhav Tatwawadi",
+                        "role":"as Yash Chauhan",
+                        "url":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/vaibhav-tatwawadi-1045103-30-04-2021-12-43-58.jpg"
+                    }
+                ],
+                "theaters":[
+                    {
+                        "id": 1,
+                        "name": "Oscar Cinemas 2k A/C",
+                        "seatNo":95,
+                        "shows": [
+                            { "time": "11:30 AM", "projection": "2K Dolby 7.1" },
+                            { "time": "01:45 PM", "projection": "2k Dolby" },
+                            { "time": "04:00 PM", "projection": "Dolby 7.1" },
+                            { "time": "09:30 PM", "projection": "Dolby 7.1" }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "name": "Jayabarath movies 2k",
+                        "seatNo":88,
+                        "shows": [
+                            { "time": "10:15 AM", "projection": "2K Dolby 7.1" },
+                            { "time": "04:15 PM", "projection": "2k Dolby" },
+                            { "time": "10:15 PM", "projection": "Dolby 7.1" }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "name": "EVM Cinema A/C RGB LASER 3D",
+                        "seatNo":85,
+                        "shows": [
+                            { "time": "09:10 AM", "projection": "2K Dolby 7.1" },
+                            { "time": "12:05 PM", "projection": "2k Dolby" },
+                            { "time": "03:00 PM", "projection": "Dolby 7.1" },
+                            { "time": "09:20 PM", "projection": "Dolby 7.1" }
+                        ]
+                    },
+                    {
+                        "id":4,
+                        "name":"Casino Talkies A/C 2K 3D Dolby Surround",
+                        "seatNo":85,
+                        "shows": [
+                            { "time": "11:00 AM", "projection": "2K Dolby 7.1" },
+                            { "time": "03:00 PM", "projection": "2k Dolby" },
+                            { "time": "09:45 PM", "projection": "Dolby 7.1" },
+                            { "time": "11:30 PM", "projection": "Dolby 7.1" }
+                        ]
+                    },
+                    {
+                        "id":5,
+                        "name":" K Cinemas 4K Dolby 7.1",
+                        "seatNo":95,
+                        "shows": [
+                            { "time": "11:15 AM", "projection": "2K Dolby 7.1" },
+                            { "time": "06:30 PM", "projection": "2k Dolby" },
+                            { "time": "09:45 PM", "projection": "Dolby 7.1" },
+                            { "time": "11:45 PM", "projection": "Dolby 7.1" }
+                        ]
+                    }
+                ]
+                
+            }
+        },
+        {
+            "id":5,
+            "name":"Killers of the Flower Moon",
+            "image":"https://assets-in.bmscdn.com/iedb/movies/images/extra/vertical_logo/mobile/thumbnail/xxlarge/killers-of-the-flower-moon-et00365290-1701427555.jpg",
+            "genre":"Crime / Drama / Historical",
+            "language":"English",
+            "rating":7.9,
+            "bgimg":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/killers-of-the-flower-moon-et00365290-1701427555.jpg",
+            "selectedOptions": ["Kochi","Thrissur"],
+            "detailView":{
+                "about":"Based on a true story and told through the improbable romance of Ernest Burkhart (Leonardo DiCaprio) and Mollie Kyle (Lily Gladstone), 'Killers of the Flower Moon' is an epic western crime saga, where real love crosses paths with unspeakable betrayal.",
+                "cast":[
+                    {
+                        "id":1,
+                        "name":"Leonardo DiCaprio",
+                        "role":"as Ernest Burkhart",
+                        "url":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/leonardo-dicaprio-1273-06-05-2020-06-55-21.jpg"
+                    },
+                    {
+                        "id":2,
+                        "name":"Lily Gladstone",
+                        "role":"as Mollie Burkhart",
+                        "url":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/lily-gladstone-1074011-1690270018.jpg"
+                    },
+                    {
+                        "id":3,
+                        "name":"Robert De Niro",
+                        "role":"as William Hale",
+                        "url":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/robert-de-niro-1900-24-03-2017-12-30-55.jpg"
+                    },
+                    {
+                        "id":4,
+                        "name":"Jesse Plemons",
+                        "role":"as Tom White",
+                        "url":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/jesse-plemons-21949-24-03-2017-15-57-49.jpg"
+                    },
+                    {
+                        "id":5,
+                        "name":"John Lithgow",
+                        "role":"as Prosecutor Peter Leaward",
+                        "url":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/john-lithgow-10956-07-12-2017-10-36-24.jpg"
+                    }
+                ],
+                "theaters":[
+                    {
+                        "id": 1,
+                        "name": "Oscar Cinemas 2k A/C",
+                        "seatNo":95,
+                        "shows": [
+                            { "time": "11:30 AM", "projection": "2K Dolby 7.1" },
+                            { "time": "01:45 PM", "projection": "2k Dolby" },
+                            { "time": "04:00 PM", "projection": "Dolby 7.1" },
+                            { "time": "09:30 PM", "projection": "Dolby 7.1" }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "name": "Jayabarath movies 2k",
+                        "seatNo":88,
+                        "shows": [
+                            { "time": "10:15 AM", "projection": "2K Dolby 7.1" },
+                            { "time": "04:15 PM", "projection": "2k Dolby" },
+                            { "time": "10:15 PM", "projection": "Dolby 7.1" }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "name": "EVM Cinema A/C RGB LASER 3D",
+                        "seatNo":85,
+                        "shows": [
+                            { "time": "09:10 AM", "projection": "2K Dolby 7.1" },
+                            { "time": "12:05 PM", "projection": "2k Dolby" },
+                            { "time": "03:00 PM", "projection": "Dolby 7.1" },
+                            { "time": "09:20 PM", "projection": "Dolby 7.1" }
+                        ]
+                    },
+                    {
+                        "id":4,
+                        "name":"Casino Talkies A/C 2K 3D Dolby Surround",
+                        "seatNo":85,
+                        "shows": [
+                            { "time": "11:00 AM", "projection": "2K Dolby 7.1" },
+                            { "time": "03:00 PM", "projection": "2k Dolby" },
+                            { "time": "09:45 PM", "projection": "Dolby 7.1" },
+                            { "time": "11:30 PM", "projection": "Dolby 7.1" }
+                        ]
+                    },
+                    {
+                        "id":5,
+                        "name":" K Cinemas 4K Dolby 7.1",
+                        "seatNo":95,
+                        "shows": [
+                            { "time": "11:15 AM", "projection": "2K Dolby 7.1" },
+                            { "time": "06:30 PM", "projection": "2k Dolby" },
+                            { "time": "09:45 PM", "projection": "Dolby 7.1" },
+                            { "time": "11:45 PM", "projection": "Dolby 7.1" }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "id":6,
+            "name":"Premalu",
+            "image":"https://media-cache.cinematerial.com/p/500x/trfrzuzv/premalu-indian-movie-poster.jpg?v=1708680080",
+            "genre":"Comedy / Romantic ",
+            "language":"Malayalam",
+            "rating":8.4,
+            "bgimg":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/premalu-et00379479-1702470173.jpg",
+            "selectedOptions": ["Kochi","Thrissur","Kannur"],
+            "detailView":{
+                "about":"Sachin`s quest for love takes unexpected turns, creating a laughter-filled love triangle.",
+                "cast":[
+                    {
+                        "id":1,
+                        "name":"Naslen",
+                        "role":"as Sachin",
+                        "url":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/naslen-2032856-1702560350.jpg"
+                    },
+                    {
+                        "id":2,
+                        "name":"Mamitha Baiju",
+                        "role":"as Reenu",
+                        "url":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/mamitha-baiju-1092540-1702560394.jpg"
+                    },
+                    {
+                        "id":3,
+                        "name":"Akhila Bhargavan",
+                        "role":"as Karthika",
+                        "url":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/akhila-bhargavan-2024274-1702560447.jpg"
+                    },
+                    {
+                        "id":4,
+                        "name":"Shyam Mohan Mohan",
+                        "role":"as Aadhi",
+                        "url":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/shyam-mohan-mohan-2033458-1704979356.jpg"
+                    },
+                    {
+                        "id":5,
+                        "name":"Sangeeth Prathap",
+                        "role":"as Amal Davis",
+                        "url":"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/sangeeth-prathap-2017599-1696161077.jpg"
+                    }
+                ],
+                "theaters":[
+                    {
+                        "id": 1,
+                        "name": "Oscar Cinemas 2k A/C",
+                        "seatNo":95,
+                        "shows": [
+                            { "time": "11:30 AM", "projection": "2K Dolby 7.1" },
+                            { "time": "01:45 PM", "projection": "2k Dolby" },
+                            { "time": "04:00 PM", "projection": "Dolby 7.1" },
+                            { "time": "09:30 PM", "projection": "Dolby 7.1" }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "name": "Jayabarath movies 2k",
+                        "seatNo":88,
+                        "shows": [
+                            { "time": "10:15 AM", "projection": "2K Dolby 7.1" },
+                            { "time": "04:15 PM", "projection": "2k Dolby" },
+                            { "time": "10:15 PM", "projection": "Dolby 7.1" }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "name": "EVM Cinema A/C RGB LASER 3D",
+                        "seatNo":85,
+                        "shows": [
+                            { "time": "09:10 AM", "projection": "2K Dolby 7.1" },
+                            { "time": "12:05 PM", "projection": "2k Dolby" },
+                            { "time": "03:00 PM", "projection": "Dolby 7.1" },
+                            { "time": "09:20 PM", "projection": "Dolby 7.1" }
+                        ]
+                    },
+                    {
+                        "id":4,
+                        "name":"Casino Talkies A/C 2K 3D Dolby Surround",
+                        "seatNo":85,
+                        "shows": [
+                            { "time": "11:00 AM", "projection": "2K Dolby 7.1" },
+                            { "time": "03:00 PM", "projection": "2k Dolby" },
+                            { "time": "09:45 PM", "projection": "Dolby 7.1" },
+                            { "time": "11:30 PM", "projection": "Dolby 7.1" }
+                        ]
+                    },
+                    {
+                        "id":5,
+                        "name":" K Cinemas 4K Dolby 7.1",
+                        "seatNo":95,
+                        "shows": [
+                            { "time": "11:15 AM", "projection": "2K Dolby 7.1" },
+                            { "time": "06:30 PM", "projection": "2k Dolby" },
+                            { "time": "09:45 PM", "projection": "Dolby 7.1" },
+                            { "time": "11:45 PM", "projection": "Dolby 7.1" }
+                        ]
+                    }
+                ]
+                
+            }
+        }
+    ]
+}
